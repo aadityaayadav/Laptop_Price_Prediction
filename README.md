@@ -57,3 +57,13 @@ df.pkl – Dataset (preprocessed)
 pipe.pkl – Trained ML pipeline
 
 Feel free to copy this into your README.md file or directly into the GitHub description and overview area.
+
+## 💻 Laptop Price Predictor
+
+A machine learning web app that predicts laptop prices based on user input like brand, RAM, GPU, and more.
+
+### 🔍 Demo
+
+![laptoppricepredictioninterface-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/76704e86-4f47-49a2-87e6-acaa586b2704)
+
+Built using React (or Streamlit), Python, and scikit-learn with a trained regression model.
